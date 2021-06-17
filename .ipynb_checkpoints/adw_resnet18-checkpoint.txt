@@ -1,0 +1,17 @@
+learning rate:  0.01
+Traceback (most recent call last):
+  File "mfsan.py", line 245, in <module>
+    train(model)
+  File "mfsan.py", line 153, in train
+    cls_loss, mmd_loss, sparse_loss1, sparse_loss2, sparse_loss3, consolidate_loss = model(source_data, target_data, source_label)
+  File "/opt/conda/lib/python3.6/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/userhome/research/continualLearning/deep-transfer-learning/MUDA/MFSAN/results_code/adw/resnet.py", line 237, in forward
+    x = modulex(x)
+  File "/opt/conda/lib/python3.6/site-packages/torch/nn/modules/module.py", line 550, in __call__
+    result = self.forward(*input, **kwargs)
+  File "/opt/conda/lib/python3.6/site-packages/torch/nn/modules/conv.py", line 349, in forward
+    return self._conv_forward(input, self.weight)
+  File "/opt/conda/lib/python3.6/site-packages/torch/nn/modules/conv.py", line 346, in _conv_forward
+    self.padding, self.dilation, self.groups)
+RuntimeError: Given groups=1, weight of size [1024, 2048, 1, 1], expected input[64, 512, 7, 7] to have 2048 channels, but got 512 channels instead

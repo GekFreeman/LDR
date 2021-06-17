@@ -1,0 +1,308 @@
+learning rate:  0.01
+Train source2 iter: 10 [(0%)]	Loss: 3.041079	soft_Loss: 2.863450	mmd_Loss: 0.295527	Sparse_Loss1: 0.099213	Sparse_Loss2: 0.051598	Sparse_Loss3: 0.025341	
+Train source2 iter: 20 [(0%)]	Loss: 2.554562	soft_Loss: 2.375623	mmd_Loss: 0.372196	Sparse_Loss1: 0.098846	Sparse_Loss2: 0.051094	Sparse_Loss3: 0.025276	
+Train source2 iter: 30 [(0%)]	Loss: 1.999750	soft_Loss: 1.815343	mmd_Loss: 0.714965	Sparse_Loss1: 0.097946	Sparse_Loss2: 0.050728	Sparse_Loss3: 0.025009	
+Train source2 iter: 40 [(0%)]	Loss: 1.673865	soft_Loss: 1.482613	mmd_Loss: 0.895006	Sparse_Loss1: 0.097626	Sparse_Loss2: 0.050659	Sparse_Loss3: 0.025070	
+Train source2 iter: 50 [(0%)]	Loss: 1.314708	soft_Loss: 1.111183	mmd_Loss: 1.132577	Sparse_Loss1: 0.098938	Sparse_Loss2: 0.050781	Sparse_Loss3: 0.025497	
+Train source2 iter: 60 [(1%)]	Loss: 1.078763	soft_Loss: 0.863640	mmd_Loss: 1.338250	Sparse_Loss1: 0.098724	Sparse_Loss2: 0.050674	Sparse_Loss3: 0.025589	
+Train source2 iter: 70 [(1%)]	Loss: 1.106743	soft_Loss: 0.884688	mmd_Loss: 1.348162	Sparse_Loss1: 0.098541	Sparse_Loss2: 0.050369	Sparse_Loss3: 0.025978	
+Train source2 iter: 80 [(1%)]	Loss: 0.840514	soft_Loss: 0.600152	mmd_Loss: 1.685999	Sparse_Loss1: 0.097076	Sparse_Loss2: 0.050034	Sparse_Loss3: 0.025848	
+Train source2 iter: 90 [(1%)]	Loss: 0.750507	soft_Loss: 0.497168	mmd_Loss: 1.760282	Sparse_Loss1: 0.097794	Sparse_Loss2: 0.050079	Sparse_Loss3: 0.026306	
+Train source2 iter: 100 [(1%)]	Loss: 0.728465	soft_Loss: 0.473238	mmd_Loss: 1.640630	Sparse_Loss1: 0.097382	Sparse_Loss2: 0.049683	Sparse_Loss3: 0.026199	
+amazon 
+Test set: Average loss: 0.0540, Accuracy: 1720/2818 (61%)
+
+
+source1 accnum 1720
+webcam dslr to amazon amazon max correct: 1720 
+
+learning rate:  0.009310124446222229
+Train source2 iter: 110 [(1%)]	Loss: 0.675379	soft_Loss: 0.398217	mmd_Loss: 1.895412	Sparse_Loss1: 0.097610	Sparse_Loss2: 0.049362	Sparse_Loss3: 0.026047	
+Train source2 iter: 120 [(1%)]	Loss: 0.680058	soft_Loss: 0.399647	mmd_Loss: 1.770232	Sparse_Loss1: 0.098328	Sparse_Loss2: 0.049515	Sparse_Loss3: 0.026482	
+Train source2 iter: 130 [(1%)]	Loss: 0.688110	soft_Loss: 0.391897	mmd_Loss: 1.900898	Sparse_Loss1: 0.097015	Sparse_Loss2: 0.049408	Sparse_Loss3: 0.026405	
+Train source2 iter: 140 [(1%)]	Loss: 0.607988	soft_Loss: 0.303444	mmd_Loss: 1.897273	Sparse_Loss1: 0.097137	Sparse_Loss2: 0.048630	Sparse_Loss3: 0.026184	
+Train source2 iter: 150 [(2%)]	Loss: 0.610330	soft_Loss: 0.306817	mmd_Loss: 1.756622	Sparse_Loss1: 0.097031	Sparse_Loss2: 0.048569	Sparse_Loss3: 0.026413	
+Train source2 iter: 160 [(2%)]	Loss: 0.606959	soft_Loss: 0.295058	mmd_Loss: 1.768779	Sparse_Loss1: 0.096329	Sparse_Loss2: 0.048447	Sparse_Loss3: 0.025925	
+Train source2 iter: 170 [(2%)]	Loss: 0.582516	soft_Loss: 0.275571	mmd_Loss: 1.603506	Sparse_Loss1: 0.097137	Sparse_Loss2: 0.047791	Sparse_Loss3: 0.026047	
+Train source2 iter: 180 [(2%)]	Loss: 0.565204	soft_Loss: 0.246878	mmd_Loss: 1.656359	Sparse_Loss1: 0.096664	Sparse_Loss2: 0.047485	Sparse_Loss3: 0.025505	
+Train source2 iter: 190 [(2%)]	Loss: 0.535744	soft_Loss: 0.227083	mmd_Loss: 1.476398	Sparse_Loss1: 0.096146	Sparse_Loss2: 0.047424	Sparse_Loss3: 0.025253	
+Train source2 iter: 200 [(2%)]	Loss: 0.518588	soft_Loss: 0.201035	mmd_Loss: 1.486901	Sparse_Loss1: 0.096710	Sparse_Loss2: 0.047119	Sparse_Loss3: 0.025528	
+amazon 
+Test set: Average loss: 0.0533, Accuracy: 1809/2818 (64%)
+
+
+source1 accnum 1809
+webcam dslr to amazon amazon max correct: 1809 
+
+learning rate:  0.008721959494934213
+Train source2 iter: 210 [(2%)]	Loss: 0.522709	soft_Loss: 0.217422	mmd_Loss: 1.304576	Sparse_Loss1: 0.096939	Sparse_Loss2: 0.046783	Sparse_Loss3: 0.025085	
+Train source2 iter: 220 [(2%)]	Loss: 0.529115	soft_Loss: 0.208813	mmd_Loss: 1.394601	Sparse_Loss1: 0.095840	Sparse_Loss2: 0.046341	Sparse_Loss3: 0.025330	
+Train source2 iter: 230 [(2%)]	Loss: 0.496748	soft_Loss: 0.188195	mmd_Loss: 1.238588	Sparse_Loss1: 0.095840	Sparse_Loss2: 0.046173	Sparse_Loss3: 0.024727	
+Train source2 iter: 240 [(2%)]	Loss: 0.479086	soft_Loss: 0.166440	mmd_Loss: 1.228546	Sparse_Loss1: 0.095108	Sparse_Loss2: 0.045776	Sparse_Loss3: 0.025040	
+Train source2 iter: 250 [(2%)]	Loss: 0.488867	soft_Loss: 0.176699	mmd_Loss: 1.190522	Sparse_Loss1: 0.093964	Sparse_Loss2: 0.045532	Sparse_Loss3: 0.024628	
+Train source2 iter: 260 [(3%)]	Loss: 0.496124	soft_Loss: 0.184351	mmd_Loss: 1.139562	Sparse_Loss1: 0.094757	Sparse_Loss2: 0.045410	Sparse_Loss3: 0.024292	
+Train source2 iter: 270 [(3%)]	Loss: 0.469256	soft_Loss: 0.152931	mmd_Loss: 1.136360	Sparse_Loss1: 0.094864	Sparse_Loss2: 0.044830	Sparse_Loss3: 0.024147	
+Train source2 iter: 280 [(3%)]	Loss: 0.437627	soft_Loss: 0.134575	mmd_Loss: 1.000904	Sparse_Loss1: 0.094620	Sparse_Loss2: 0.044998	Sparse_Loss3: 0.024216	
+Train source2 iter: 290 [(3%)]	Loss: 0.467216	soft_Loss: 0.177080	mmd_Loss: 0.878207	Sparse_Loss1: 0.094727	Sparse_Loss2: 0.044968	Sparse_Loss3: 0.023987	
+Train source2 iter: 300 [(3%)]	Loss: 0.432773	soft_Loss: 0.143786	mmd_Loss: 0.854134	Sparse_Loss1: 0.093658	Sparse_Loss2: 0.044510	Sparse_Loss3: 0.023651	
+amazon 
+Test set: Average loss: 0.0520, Accuracy: 1861/2818 (66%)
+
+
+source1 accnum 1861
+webcam dslr to amazon amazon max correct: 1861 
+
+learning rate:  0.008213769018249545
+Train source2 iter: 310 [(3%)]	Loss: 0.463198	soft_Loss: 0.158316	mmd_Loss: 0.915234	Sparse_Loss1: 0.094727	Sparse_Loss2: 0.045319	Sparse_Loss3: 0.024101	
+Train source2 iter: 320 [(3%)]	Loss: 0.430663	soft_Loss: 0.121584	mmd_Loss: 0.927251	Sparse_Loss1: 0.093613	Sparse_Loss2: 0.044510	Sparse_Loss3: 0.023849	
+Train source2 iter: 330 [(3%)]	Loss: 0.421828	soft_Loss: 0.132438	mmd_Loss: 0.783100	Sparse_Loss1: 0.093750	Sparse_Loss2: 0.044388	Sparse_Loss3: 0.023201	
+Train source2 iter: 340 [(3%)]	Loss: 0.438343	soft_Loss: 0.146987	mmd_Loss: 0.770442	Sparse_Loss1: 0.093262	Sparse_Loss2: 0.044449	Sparse_Loss3: 0.023918	
+Train source2 iter: 350 [(4%)]	Loss: 0.426149	soft_Loss: 0.160453	mmd_Loss: 0.607860	Sparse_Loss1: 0.093002	Sparse_Loss2: 0.044006	Sparse_Loss3: 0.023384	
+Train source2 iter: 360 [(4%)]	Loss: 0.417761	soft_Loss: 0.131266	mmd_Loss: 0.707222	Sparse_Loss1: 0.092789	Sparse_Loss2: 0.044281	Sparse_Loss3: 0.023483	
+Train source2 iter: 370 [(4%)]	Loss: 0.410899	soft_Loss: 0.146051	mmd_Loss: 0.571095	Sparse_Loss1: 0.092987	Sparse_Loss2: 0.044037	Sparse_Loss3: 0.023361	
+Train source2 iter: 380 [(4%)]	Loss: 0.416584	soft_Loss: 0.140674	mmd_Loss: 0.611503	Sparse_Loss1: 0.093048	Sparse_Loss2: 0.044556	Sparse_Loss3: 0.023499	
+Train source2 iter: 390 [(4%)]	Loss: 0.410587	soft_Loss: 0.133214	mmd_Loss: 0.609145	Sparse_Loss1: 0.092651	Sparse_Loss2: 0.043930	Sparse_Loss3: 0.023491	
+Train source2 iter: 400 [(4%)]	Loss: 0.418524	soft_Loss: 0.136991	mmd_Loss: 0.615996	Sparse_Loss1: 0.092728	Sparse_Loss2: 0.043762	Sparse_Loss3: 0.023460	
+amazon 
+Test set: Average loss: 0.0507, Accuracy: 1885/2818 (67%)
+
+
+source1 accnum 1885
+webcam dslr to amazon amazon max correct: 1885 
+
+learning rate:  0.007769695042409124
+Train source2 iter: 410 [(4%)]	Loss: 0.401967	soft_Loss: 0.129715	mmd_Loss: 0.555163	Sparse_Loss1: 0.092728	Sparse_Loss2: 0.043777	Sparse_Loss3: 0.023506	
+Train source2 iter: 420 [(4%)]	Loss: 0.405868	soft_Loss: 0.127544	mmd_Loss: 0.573383	Sparse_Loss1: 0.092041	Sparse_Loss2: 0.043854	Sparse_Loss3: 0.023758	
+Train source2 iter: 430 [(4%)]	Loss: 0.382700	soft_Loss: 0.123434	mmd_Loss: 0.476057	Sparse_Loss1: 0.091858	Sparse_Loss2: 0.043304	Sparse_Loss3: 0.023300	
+Train source2 iter: 440 [(4%)]	Loss: 0.410429	soft_Loss: 0.130021	mmd_Loss: 0.562610	Sparse_Loss1: 0.091888	Sparse_Loss2: 0.043610	Sparse_Loss3: 0.023094	
+Train source2 iter: 450 [(4%)]	Loss: 0.389138	soft_Loss: 0.134154	mmd_Loss: 0.435957	Sparse_Loss1: 0.091614	Sparse_Loss2: 0.043350	Sparse_Loss3: 0.023552	
+Train source2 iter: 460 [(5%)]	Loss: 0.383080	soft_Loss: 0.114999	mmd_Loss: 0.490210	Sparse_Loss1: 0.091293	Sparse_Loss2: 0.043060	Sparse_Loss3: 0.022926	
+Train source2 iter: 470 [(5%)]	Loss: 0.381853	soft_Loss: 0.122591	mmd_Loss: 0.429528	Sparse_Loss1: 0.093216	Sparse_Loss2: 0.043457	Sparse_Loss3: 0.023468	
+Train source2 iter: 480 [(5%)]	Loss: 0.380956	soft_Loss: 0.114777	mmd_Loss: 0.454973	Sparse_Loss1: 0.092178	Sparse_Loss2: 0.043488	Sparse_Loss3: 0.023369	
+Train source2 iter: 490 [(5%)]	Loss: 0.372686	soft_Loss: 0.134515	mmd_Loss: 0.329853	Sparse_Loss1: 0.091995	Sparse_Loss2: 0.043381	Sparse_Loss3: 0.023560	
+Train source2 iter: 500 [(5%)]	Loss: 0.383920	soft_Loss: 0.118163	mmd_Loss: 0.441133	Sparse_Loss1: 0.091431	Sparse_Loss2: 0.043076	Sparse_Loss3: 0.023209	
+amazon 
+Test set: Average loss: 0.0498, Accuracy: 1890/2818 (67%)
+
+
+source1 accnum 1890
+webcam dslr to amazon amazon max correct: 1890 
+
+learning rate:  0.007377879464668811
+Train source2 iter: 510 [(5%)]	Loss: 0.363905	soft_Loss: 0.116692	mmd_Loss: 0.356561	Sparse_Loss1: 0.091537	Sparse_Loss2: 0.043106	Sparse_Loss3: 0.023567	
+Train source2 iter: 520 [(5%)]	Loss: 0.351321	soft_Loss: 0.114794	mmd_Loss: 0.311484	Sparse_Loss1: 0.091064	Sparse_Loss2: 0.042969	Sparse_Loss3: 0.023285	
+Train source2 iter: 530 [(5%)]	Loss: 0.363499	soft_Loss: 0.107143	mmd_Loss: 0.379314	Sparse_Loss1: 0.091736	Sparse_Loss2: 0.042892	Sparse_Loss3: 0.023499	
+Train source2 iter: 540 [(5%)]	Loss: 0.360724	soft_Loss: 0.126579	mmd_Loss: 0.290499	Sparse_Loss1: 0.091263	Sparse_Loss2: 0.042953	Sparse_Loss3: 0.023346	
+Train source2 iter: 550 [(6%)]	Loss: 0.356757	soft_Loss: 0.108842	mmd_Loss: 0.337255	Sparse_Loss1: 0.091248	Sparse_Loss2: 0.042953	Sparse_Loss3: 0.023239	
+Train source2 iter: 560 [(6%)]	Loss: 0.364373	soft_Loss: 0.120138	mmd_Loss: 0.317844	Sparse_Loss1: 0.091110	Sparse_Loss2: 0.043045	Sparse_Loss3: 0.023338	
+Train source2 iter: 570 [(6%)]	Loss: 0.350147	soft_Loss: 0.114574	mmd_Loss: 0.287387	Sparse_Loss1: 0.090530	Sparse_Loss2: 0.042480	Sparse_Loss3: 0.022804	
+Train source2 iter: 580 [(6%)]	Loss: 0.328012	soft_Loss: 0.099551	mmd_Loss: 0.256513	Sparse_Loss1: 0.090607	Sparse_Loss2: 0.042603	Sparse_Loss3: 0.022881	
+Train source2 iter: 590 [(6%)]	Loss: 0.378172	soft_Loss: 0.102422	mmd_Loss: 0.414082	Sparse_Loss1: 0.090652	Sparse_Loss2: 0.043030	Sparse_Loss3: 0.023338	
+Train source2 iter: 600 [(6%)]	Loss: 0.349775	soft_Loss: 0.099068	mmd_Loss: 0.323121	Sparse_Loss1: 0.090759	Sparse_Loss2: 0.042511	Sparse_Loss3: 0.023308	
+amazon 
+Test set: Average loss: 0.0491, Accuracy: 1891/2818 (67%)
+
+
+source1 accnum 1891
+webcam dslr to amazon amazon max correct: 1891 
+
+learning rate:  0.007029266564879363
+Train source2 iter: 610 [(6%)]	Loss: 0.341495	soft_Loss: 0.100247	mmd_Loss: 0.285490	Sparse_Loss1: 0.090607	Sparse_Loss2: 0.042694	Sparse_Loss3: 0.023476	
+Train source2 iter: 620 [(6%)]	Loss: 0.353757	soft_Loss: 0.100592	mmd_Loss: 0.321362	Sparse_Loss1: 0.091003	Sparse_Loss2: 0.042511	Sparse_Loss3: 0.023102	
+Train source2 iter: 630 [(6%)]	Loss: 0.342461	soft_Loss: 0.093927	mmd_Loss: 0.303742	Sparse_Loss1: 0.090729	Sparse_Loss2: 0.042038	Sparse_Loss3: 0.023132	
+Train source2 iter: 640 [(6%)]	Loss: 0.339150	soft_Loss: 0.110148	mmd_Loss: 0.239742	Sparse_Loss1: 0.089752	Sparse_Loss2: 0.042007	Sparse_Loss3: 0.023041	
+Train source2 iter: 650 [(6%)]	Loss: 0.334324	soft_Loss: 0.095570	mmd_Loss: 0.264873	Sparse_Loss1: 0.090149	Sparse_Loss2: 0.042435	Sparse_Loss3: 0.022995	
+Train source2 iter: 660 [(7%)]	Loss: 0.349831	soft_Loss: 0.115032	mmd_Loss: 0.248092	Sparse_Loss1: 0.090317	Sparse_Loss2: 0.042328	Sparse_Loss3: 0.023132	
+Train source2 iter: 670 [(7%)]	Loss: 0.334608	soft_Loss: 0.110143	mmd_Loss: 0.213619	Sparse_Loss1: 0.089951	Sparse_Loss2: 0.042160	Sparse_Loss3: 0.023354	
+Train source2 iter: 680 [(7%)]	Loss: 0.329351	soft_Loss: 0.092484	mmd_Loss: 0.249368	Sparse_Loss1: 0.090179	Sparse_Loss2: 0.041962	Sparse_Loss3: 0.023064	
+Train source2 iter: 690 [(7%)]	Loss: 0.363963	soft_Loss: 0.101843	mmd_Loss: 0.323637	Sparse_Loss1: 0.089767	Sparse_Loss2: 0.041855	Sparse_Loss3: 0.023071	
+Train source2 iter: 700 [(7%)]	Loss: 0.331513	soft_Loss: 0.083692	mmd_Loss: 0.277670	Sparse_Loss1: 0.089844	Sparse_Loss2: 0.041748	Sparse_Loss3: 0.022827	
+amazon 
+Test set: Average loss: 0.0486, Accuracy: 1899/2818 (67%)
+
+
+source1 accnum 1899
+webcam dslr to amazon amazon max correct: 1899 
+
+learning rate:  0.00671681379667898
+Train source2 iter: 710 [(7%)]	Loss: 0.329265	soft_Loss: 0.098968	mmd_Loss: 0.224324	Sparse_Loss1: 0.089081	Sparse_Loss2: 0.041962	Sparse_Loss3: 0.022804	
+Train source2 iter: 720 [(7%)]	Loss: 0.325387	soft_Loss: 0.095192	mmd_Loss: 0.218157	Sparse_Loss1: 0.089905	Sparse_Loss2: 0.042145	Sparse_Loss3: 0.022835	
+Train source2 iter: 730 [(7%)]	Loss: 0.315161	soft_Loss: 0.088737	mmd_Loss: 0.211414	Sparse_Loss1: 0.088562	Sparse_Loss2: 0.041382	Sparse_Loss3: 0.022568	
+Train source2 iter: 740 [(7%)]	Loss: 0.340027	soft_Loss: 0.093744	mmd_Loss: 0.261986	Sparse_Loss1: 0.089035	Sparse_Loss2: 0.041534	Sparse_Loss3: 0.022972	
+Train source2 iter: 750 [(8%)]	Loss: 0.311349	soft_Loss: 0.093926	mmd_Loss: 0.179708	Sparse_Loss1: 0.088806	Sparse_Loss2: 0.041458	Sparse_Loss3: 0.022758	
+Train source2 iter: 760 [(8%)]	Loss: 0.311168	soft_Loss: 0.093964	mmd_Loss: 0.176173	Sparse_Loss1: 0.089005	Sparse_Loss2: 0.041382	Sparse_Loss3: 0.022919	
+Train source2 iter: 770 [(8%)]	Loss: 0.324824	soft_Loss: 0.093638	mmd_Loss: 0.211769	Sparse_Loss1: 0.089081	Sparse_Loss2: 0.041534	Sparse_Loss3: 0.022842	
+Train source2 iter: 780 [(8%)]	Loss: 0.303472	soft_Loss: 0.082961	mmd_Loss: 0.182986	Sparse_Loss1: 0.088837	Sparse_Loss2: 0.041000	Sparse_Loss3: 0.022720	
+Train source2 iter: 790 [(8%)]	Loss: 0.325470	soft_Loss: 0.085042	mmd_Loss: 0.232100	Sparse_Loss1: 0.089035	Sparse_Loss2: 0.041550	Sparse_Loss3: 0.022652	
+Train source2 iter: 800 [(8%)]	Loss: 0.329243	soft_Loss: 0.089991	mmd_Loss: 0.224840	Sparse_Loss1: 0.089111	Sparse_Loss2: 0.041687	Sparse_Loss3: 0.023026	
+amazon 
+Test set: Average loss: 0.0483, Accuracy: 1916/2818 (68%)
+
+
+source1 accnum 1916
+webcam dslr to amazon amazon max correct: 1916 
+
+learning rate:  0.006434956584934828
+Train source2 iter: 810 [(8%)]	Loss: 0.312305	soft_Loss: 0.097339	mmd_Loss: 0.160524	Sparse_Loss1: 0.088943	Sparse_Loss2: 0.041367	Sparse_Loss3: 0.022980	
+Train source2 iter: 820 [(8%)]	Loss: 0.312878	soft_Loss: 0.088937	mmd_Loss: 0.181397	Sparse_Loss1: 0.089020	Sparse_Loss2: 0.041473	Sparse_Loss3: 0.022980	
+Train source2 iter: 830 [(8%)]	Loss: 0.311552	soft_Loss: 0.081840	mmd_Loss: 0.197517	Sparse_Loss1: 0.088318	Sparse_Loss2: 0.041168	Sparse_Loss3: 0.022659	
+Train source2 iter: 840 [(8%)]	Loss: 0.320922	soft_Loss: 0.106109	mmd_Loss: 0.159899	Sparse_Loss1: 0.088226	Sparse_Loss2: 0.040695	Sparse_Loss3: 0.022423	
+Train source2 iter: 850 [(8%)]	Loss: 0.326599	soft_Loss: 0.086983	mmd_Loss: 0.219314	Sparse_Loss1: 0.088013	Sparse_Loss2: 0.040802	Sparse_Loss3: 0.022827	
+Train source2 iter: 860 [(9%)]	Loss: 0.303469	soft_Loss: 0.090230	mmd_Loss: 0.152762	Sparse_Loss1: 0.088104	Sparse_Loss2: 0.040710	Sparse_Loss3: 0.022507	
+Train source2 iter: 870 [(9%)]	Loss: 0.309876	soft_Loss: 0.085178	mmd_Loss: 0.175481	Sparse_Loss1: 0.089111	Sparse_Loss2: 0.041061	Sparse_Loss3: 0.022667	
+Train source2 iter: 880 [(9%)]	Loss: 0.310677	soft_Loss: 0.091656	mmd_Loss: 0.163517	Sparse_Loss1: 0.087921	Sparse_Loss2: 0.040619	Sparse_Loss3: 0.022842	
+Train source2 iter: 890 [(9%)]	Loss: 0.301050	soft_Loss: 0.083596	mmd_Loss: 0.161546	Sparse_Loss1: 0.087479	Sparse_Loss2: 0.040283	Sparse_Loss3: 0.022202	
+Train source2 iter: 900 [(9%)]	Loss: 0.301891	soft_Loss: 0.081424	mmd_Loss: 0.165990	Sparse_Loss1: 0.087753	Sparse_Loss2: 0.040375	Sparse_Loss3: 0.022308	
+amazon 
+Test set: Average loss: 0.0480, Accuracy: 1906/2818 (68%)
+
+
+source1 accnum 1906
+webcam dslr to amazon amazon max correct: 1916 
+
+learning rate:  0.006179236241810624
+Train source2 iter: 910 [(9%)]	Loss: 0.330547	soft_Loss: 0.084346	mmd_Loss: 0.224046	Sparse_Loss1: 0.088074	Sparse_Loss2: 0.040176	Sparse_Loss3: 0.022507	
+Train source2 iter: 920 [(9%)]	Loss: 0.297311	soft_Loss: 0.081280	mmd_Loss: 0.152514	Sparse_Loss1: 0.087723	Sparse_Loss2: 0.040100	Sparse_Loss3: 0.022614	
+Train source2 iter: 930 [(9%)]	Loss: 0.290247	soft_Loss: 0.075057	mmd_Loss: 0.147218	Sparse_Loss1: 0.088364	Sparse_Loss2: 0.040146	Sparse_Loss3: 0.022766	
+Train source2 iter: 940 [(9%)]	Loss: 0.312394	soft_Loss: 0.073228	mmd_Loss: 0.204558	Sparse_Loss1: 0.087189	Sparse_Loss2: 0.039978	Sparse_Loss3: 0.022362	
+Train source2 iter: 950 [(10%)]	Loss: 0.304607	soft_Loss: 0.089343	mmd_Loss: 0.146816	Sparse_Loss1: 0.088196	Sparse_Loss2: 0.039825	Sparse_Loss3: 0.022316	
+Train source2 iter: 960 [(10%)]	Loss: 0.306731	soft_Loss: 0.095637	mmd_Loss: 0.138254	Sparse_Loss1: 0.086853	Sparse_Loss2: 0.040100	Sparse_Loss3: 0.022446	
+Train source2 iter: 970 [(10%)]	Loss: 0.304416	soft_Loss: 0.078897	mmd_Loss: 0.169913	Sparse_Loss1: 0.086914	Sparse_Loss2: 0.039993	Sparse_Loss3: 0.022110	
+Train source2 iter: 980 [(10%)]	Loss: 0.303055	soft_Loss: 0.072337	mmd_Loss: 0.177807	Sparse_Loss1: 0.087570	Sparse_Loss2: 0.039963	Sparse_Loss3: 0.022423	
+Train source2 iter: 990 [(10%)]	Loss: 0.313894	soft_Loss: 0.076995	mmd_Loss: 0.191926	Sparse_Loss1: 0.086884	Sparse_Loss2: 0.039780	Sparse_Loss3: 0.022301	
+Train source2 iter: 1000 [(10%)]	Loss: 0.319031	soft_Loss: 0.082596	mmd_Loss: 0.186526	Sparse_Loss1: 0.087509	Sparse_Loss2: 0.040146	Sparse_Loss3: 0.022583	
+amazon 
+Test set: Average loss: 0.0478, Accuracy: 1921/2818 (68%)
+
+
+source1 accnum 1921
+webcam dslr to amazon amazon max correct: 1921 
+
+learning rate:  0.005946035575013606
+Train source2 iter: 1010 [(10%)]	Loss: 0.293905	soft_Loss: 0.071533	mmd_Loss: 0.158021	Sparse_Loss1: 0.086868	Sparse_Loss2: 0.039597	Sparse_Loss3: 0.022263	
+Train source2 iter: 1020 [(10%)]	Loss: 0.320436	soft_Loss: 0.077745	mmd_Loss: 0.199996	Sparse_Loss1: 0.086746	Sparse_Loss2: 0.039673	Sparse_Loss3: 0.022285	
+Train source2 iter: 1030 [(10%)]	Loss: 0.314540	soft_Loss: 0.070092	mmd_Loss: 0.201272	Sparse_Loss1: 0.086884	Sparse_Loss2: 0.039825	Sparse_Loss3: 0.022369	
+Train source2 iter: 1040 [(10%)]	Loss: 0.311176	soft_Loss: 0.073960	mmd_Loss: 0.181150	Sparse_Loss1: 0.088196	Sparse_Loss2: 0.039871	Sparse_Loss3: 0.022614	
+Train source2 iter: 1050 [(10%)]	Loss: 0.300940	soft_Loss: 0.081588	mmd_Loss: 0.147532	Sparse_Loss1: 0.086761	Sparse_Loss2: 0.039520	Sparse_Loss3: 0.022026	
+Train source2 iter: 1060 [(11%)]	Loss: 0.302059	soft_Loss: 0.070150	mmd_Loss: 0.172146	Sparse_Loss1: 0.086502	Sparse_Loss2: 0.039551	Sparse_Loss3: 0.022301	
+Train source2 iter: 1070 [(11%)]	Loss: 0.302610	soft_Loss: 0.081712	mmd_Loss: 0.149121	Sparse_Loss1: 0.087006	Sparse_Loss2: 0.038879	Sparse_Loss3: 0.022064	
+Train source2 iter: 1080 [(11%)]	Loss: 0.305112	soft_Loss: 0.073288	mmd_Loss: 0.168774	Sparse_Loss1: 0.086899	Sparse_Loss2: 0.039444	Sparse_Loss3: 0.022278	
+Train source2 iter: 1090 [(11%)]	Loss: 0.268434	soft_Loss: 0.061905	mmd_Loss: 0.120996	Sparse_Loss1: 0.085693	Sparse_Loss2: 0.038803	Sparse_Loss3: 0.021927	
+Train source2 iter: 1100 [(11%)]	Loss: 0.304242	soft_Loss: 0.058423	mmd_Loss: 0.196085	Sparse_Loss1: 0.086426	Sparse_Loss2: 0.039108	Sparse_Loss3: 0.022141	
+amazon 
+Test set: Average loss: 0.0475, Accuracy: 1915/2818 (68%)
+
+
+source1 accnum 1915
+webcam dslr to amazon amazon max correct: 1921 
+
+learning rate:  0.005732387350012933
+Train source2 iter: 1110 [(11%)]	Loss: 0.295246	soft_Loss: 0.071638	mmd_Loss: 0.146486	Sparse_Loss1: 0.087341	Sparse_Loss2: 0.039688	Sparse_Loss3: 0.022713	
+Train source2 iter: 1120 [(11%)]	Loss: 0.308220	soft_Loss: 0.070535	mmd_Loss: 0.176592	Sparse_Loss1: 0.086395	Sparse_Loss2: 0.039444	Sparse_Loss3: 0.022141	
+Train source2 iter: 1130 [(11%)]	Loss: 0.266263	soft_Loss: 0.067705	mmd_Loss: 0.099386	Sparse_Loss1: 0.086456	Sparse_Loss2: 0.039078	Sparse_Loss3: 0.022171	
+Train source2 iter: 1140 [(11%)]	Loss: 0.292699	soft_Loss: 0.074705	mmd_Loss: 0.137380	Sparse_Loss1: 0.086029	Sparse_Loss2: 0.039001	Sparse_Loss3: 0.022163	
+Train source2 iter: 1150 [(12%)]	Loss: 0.296092	soft_Loss: 0.076408	mmd_Loss: 0.140491	Sparse_Loss1: 0.086014	Sparse_Loss2: 0.038849	Sparse_Loss3: 0.021904	
+Train source2 iter: 1160 [(12%)]	Loss: 0.302769	soft_Loss: 0.069265	mmd_Loss: 0.165296	Sparse_Loss1: 0.085907	Sparse_Loss2: 0.038895	Sparse_Loss3: 0.022308	
+Train source2 iter: 1170 [(12%)]	Loss: 0.280371	soft_Loss: 0.070659	mmd_Loss: 0.120051	Sparse_Loss1: 0.085846	Sparse_Loss2: 0.038605	Sparse_Loss3: 0.022079	
+Train source2 iter: 1180 [(12%)]	Loss: 0.320856	soft_Loss: 0.063198	mmd_Loss: 0.208305	Sparse_Loss1: 0.085938	Sparse_Loss2: 0.038925	Sparse_Loss3: 0.022415	
+Train source2 iter: 1190 [(12%)]	Loss: 0.312703	soft_Loss: 0.081549	mmd_Loss: 0.158281	Sparse_Loss1: 0.085709	Sparse_Loss2: 0.038757	Sparse_Loss3: 0.022247	
+Train source2 iter: 1200 [(12%)]	Loss: 0.292024	soft_Loss: 0.064968	mmd_Loss: 0.149573	Sparse_Loss1: 0.085983	Sparse_Loss2: 0.038666	Sparse_Loss3: 0.022079	
+amazon 
+Test set: Average loss: 0.0474, Accuracy: 1927/2818 (68%)
+
+
+source1 accnum 1927
+webcam dslr to amazon amazon max correct: 1927 
+
+learning rate:  0.005535833116504121
+Train source2 iter: 1210 [(12%)]	Loss: 0.313416	soft_Loss: 0.068371	mmd_Loss: 0.181063	Sparse_Loss1: 0.086380	Sparse_Loss2: 0.038620	Sparse_Loss3: 0.022163	
+Train source2 iter: 1220 [(12%)]	Loss: 0.306805	soft_Loss: 0.066424	mmd_Loss: 0.170994	Sparse_Loss1: 0.086243	Sparse_Loss2: 0.038757	Sparse_Loss3: 0.022339	
+Train source2 iter: 1230 [(12%)]	Loss: 0.281388	soft_Loss: 0.056547	mmd_Loss: 0.144280	Sparse_Loss1: 0.085449	Sparse_Loss2: 0.038239	Sparse_Loss3: 0.022141	
+Train source2 iter: 1240 [(12%)]	Loss: 0.283580	soft_Loss: 0.070444	mmd_Loss: 0.121005	Sparse_Loss1: 0.085968	Sparse_Loss2: 0.038589	Sparse_Loss3: 0.021889	
+Train source2 iter: 1250 [(12%)]	Loss: 0.270707	soft_Loss: 0.064940	mmd_Loss: 0.110305	Sparse_Loss1: 0.085068	Sparse_Loss2: 0.037857	Sparse_Loss3: 0.021667	
+Train source2 iter: 1260 [(13%)]	Loss: 0.287473	soft_Loss: 0.071342	mmd_Loss: 0.127934	Sparse_Loss1: 0.084808	Sparse_Loss2: 0.038147	Sparse_Loss3: 0.021782	
+Train source2 iter: 1270 [(13%)]	Loss: 0.282817	soft_Loss: 0.057204	mmd_Loss: 0.144325	Sparse_Loss1: 0.084915	Sparse_Loss2: 0.037857	Sparse_Loss3: 0.021805	
+Train source2 iter: 1280 [(13%)]	Loss: 0.286099	soft_Loss: 0.058845	mmd_Loss: 0.145682	Sparse_Loss1: 0.085648	Sparse_Loss2: 0.037766	Sparse_Loss3: 0.021545	
+Train source2 iter: 1290 [(13%)]	Loss: 0.272377	soft_Loss: 0.066346	mmd_Loss: 0.109830	Sparse_Loss1: 0.084183	Sparse_Loss2: 0.037781	Sparse_Loss3: 0.021652	
+Train source2 iter: 1300 [(13%)]	Loss: 0.288912	soft_Loss: 0.055891	mmd_Loss: 0.152909	Sparse_Loss1: 0.085663	Sparse_Loss2: 0.038177	Sparse_Loss3: 0.021767	
+amazon 
+Test set: Average loss: 0.0472, Accuracy: 1922/2818 (68%)
+
+
+source1 accnum 1922
+webcam dslr to amazon amazon max correct: 1927 
+
+learning rate:  0.005354317532104296
+Train source2 iter: 1310 [(13%)]	Loss: 0.281552	soft_Loss: 0.067539	mmd_Loss: 0.122530	Sparse_Loss1: 0.084534	Sparse_Loss2: 0.037521	Sparse_Loss3: 0.021500	
+Train source2 iter: 1320 [(13%)]	Loss: 0.283950	soft_Loss: 0.053764	mmd_Loss: 0.146464	Sparse_Loss1: 0.085815	Sparse_Loss2: 0.037750	Sparse_Loss3: 0.021912	
+Train source2 iter: 1330 [(13%)]	Loss: 0.298291	soft_Loss: 0.059802	mmd_Loss: 0.160663	Sparse_Loss1: 0.085129	Sparse_Loss2: 0.038071	Sparse_Loss3: 0.021835	
+Train source2 iter: 1340 [(13%)]	Loss: 0.281030	soft_Loss: 0.063144	mmd_Loss: 0.127914	Sparse_Loss1: 0.084015	Sparse_Loss2: 0.037552	Sparse_Loss3: 0.021492	
+Train source2 iter: 1350 [(14%)]	Loss: 0.292257	soft_Loss: 0.062695	mmd_Loss: 0.147840	Sparse_Loss1: 0.083603	Sparse_Loss2: 0.037506	Sparse_Loss3: 0.021484	
+Train source2 iter: 1360 [(14%)]	Loss: 0.271579	soft_Loss: 0.062270	mmd_Loss: 0.111394	Sparse_Loss1: 0.083847	Sparse_Loss2: 0.037735	Sparse_Loss3: 0.021835	
+Train source2 iter: 1370 [(14%)]	Loss: 0.278586	soft_Loss: 0.061101	mmd_Loss: 0.125662	Sparse_Loss1: 0.084198	Sparse_Loss2: 0.037018	Sparse_Loss3: 0.021530	
+Train source2 iter: 1380 [(14%)]	Loss: 0.274944	soft_Loss: 0.047647	mmd_Loss: 0.141699	Sparse_Loss1: 0.083755	Sparse_Loss2: 0.037277	Sparse_Loss3: 0.021530	
+Train source2 iter: 1390 [(14%)]	Loss: 0.274564	soft_Loss: 0.053458	mmd_Loss: 0.130241	Sparse_Loss1: 0.084198	Sparse_Loss2: 0.037262	Sparse_Loss3: 0.021347	
+Train source2 iter: 1400 [(14%)]	Loss: 0.266492	soft_Loss: 0.053284	mmd_Loss: 0.116627	Sparse_Loss1: 0.083649	Sparse_Loss2: 0.037186	Sparse_Loss3: 0.021889	
+amazon 
+Test set: Average loss: 0.0471, Accuracy: 1929/2818 (68%)
+
+
+source1 accnum 1929
+webcam dslr to amazon amazon max correct: 1929 
+
+learning rate:  0.005186108144070653
+Train source2 iter: 1410 [(14%)]	Loss: 0.301212	soft_Loss: 0.083524	mmd_Loss: 0.125314	Sparse_Loss1: 0.083679	Sparse_Loss2: 0.036896	Sparse_Loss3: 0.020981	
+Train source2 iter: 1420 [(14%)]	Loss: 0.268459	soft_Loss: 0.060766	mmd_Loss: 0.108953	Sparse_Loss1: 0.083130	Sparse_Loss2: 0.036942	Sparse_Loss3: 0.021088	
+Train source2 iter: 1430 [(14%)]	Loss: 0.269690	soft_Loss: 0.060935	mmd_Loss: 0.108374	Sparse_Loss1: 0.084167	Sparse_Loss2: 0.036667	Sparse_Loss3: 0.021400	
+Train source2 iter: 1440 [(14%)]	Loss: 0.257632	soft_Loss: 0.043686	mmd_Loss: 0.114450	Sparse_Loss1: 0.084641	Sparse_Loss2: 0.037170	Sparse_Loss3: 0.021530	
+Train source2 iter: 1450 [(14%)]	Loss: 0.320354	soft_Loss: 0.054878	mmd_Loss: 0.196832	Sparse_Loss1: 0.084595	Sparse_Loss2: 0.037186	Sparse_Loss3: 0.021660	
+Train source2 iter: 1460 [(15%)]	Loss: 0.286644	soft_Loss: 0.064356	mmd_Loss: 0.128728	Sparse_Loss1: 0.084137	Sparse_Loss2: 0.036697	Sparse_Loss3: 0.021248	
+Train source2 iter: 1470 [(15%)]	Loss: 0.278980	soft_Loss: 0.046981	mmd_Loss: 0.144476	Sparse_Loss1: 0.083450	Sparse_Loss2: 0.036682	Sparse_Loss3: 0.021408	
+Train source2 iter: 1480 [(15%)]	Loss: 0.284913	soft_Loss: 0.057011	mmd_Loss: 0.138808	Sparse_Loss1: 0.083023	Sparse_Loss2: 0.036285	Sparse_Loss3: 0.021263	
+Train source2 iter: 1490 [(15%)]	Loss: 0.293162	soft_Loss: 0.061280	mmd_Loss: 0.140810	Sparse_Loss1: 0.084198	Sparse_Loss2: 0.036972	Sparse_Loss3: 0.021698	
+Train source2 iter: 1500 [(15%)]	Loss: 0.257411	soft_Loss: 0.056218	mmd_Loss: 0.096633	Sparse_Loss1: 0.082642	Sparse_Loss2: 0.035965	Sparse_Loss3: 0.021210	
+amazon 
+Test set: Average loss: 0.0470, Accuracy: 1947/2818 (69%)
+
+
+source1 accnum 1947
+webcam dslr to amazon amazon max correct: 1947 
+
+learning rate:  0.005029733718731742
+Train source2 iter: 1510 [(15%)]	Loss: 0.275501	soft_Loss: 0.051790	mmd_Loss: 0.130395	Sparse_Loss1: 0.083267	Sparse_Loss2: 0.036316	Sparse_Loss3: 0.020920	
+Train source2 iter: 1520 [(15%)]	Loss: 0.292579	soft_Loss: 0.064533	mmd_Loss: 0.133902	Sparse_Loss1: 0.083939	Sparse_Loss2: 0.036987	Sparse_Loss3: 0.021278	
+Train source2 iter: 1530 [(15%)]	Loss: 0.276385	soft_Loss: 0.051925	mmd_Loss: 0.131111	Sparse_Loss1: 0.082703	Sparse_Loss2: 0.036118	Sparse_Loss3: 0.021202	
+Train source2 iter: 1540 [(15%)]	Loss: 0.308102	soft_Loss: 0.075558	mmd_Loss: 0.141578	Sparse_Loss1: 0.083359	Sparse_Loss2: 0.036255	Sparse_Loss3: 0.021339	
+Train source2 iter: 1550 [(16%)]	Loss: 0.298116	soft_Loss: 0.056947	mmd_Loss: 0.154020	Sparse_Loss1: 0.083252	Sparse_Loss2: 0.036636	Sparse_Loss3: 0.021194	
+Train source2 iter: 1560 [(16%)]	Loss: 0.282053	soft_Loss: 0.062352	mmd_Loss: 0.119375	Sparse_Loss1: 0.083771	Sparse_Loss2: 0.036621	Sparse_Loss3: 0.021393	
+Train source2 iter: 1570 [(16%)]	Loss: 0.269145	soft_Loss: 0.056238	mmd_Loss: 0.110469	Sparse_Loss1: 0.082901	Sparse_Loss2: 0.036179	Sparse_Loss3: 0.021408	
+Train source2 iter: 1580 [(16%)]	Loss: 0.299432	soft_Loss: 0.046926	mmd_Loss: 0.171525	Sparse_Loss1: 0.082367	Sparse_Loss2: 0.036133	Sparse_Loss3: 0.021072	
+Train source2 iter: 1590 [(16%)]	Loss: 0.263331	soft_Loss: 0.052627	mmd_Loss: 0.106029	Sparse_Loss1: 0.083069	Sparse_Loss2: 0.036316	Sparse_Loss3: 0.021210	
+Train source2 iter: 1600 [(16%)]	Loss: 0.259954	soft_Loss: 0.048489	mmd_Loss: 0.107186	Sparse_Loss1: 0.083221	Sparse_Loss2: 0.035934	Sparse_Loss3: 0.021133	
+amazon 
+Test set: Average loss: 0.0469, Accuracy: 1938/2818 (69%)
+
+
+source1 accnum 1938
+webcam dslr to amazon amazon max correct: 1947 
+
+learning rate:  0.004883936278745637
+Train source2 iter: 1610 [(16%)]	Loss: 0.278920	soft_Loss: 0.047763	mmd_Loss: 0.134599	Sparse_Loss1: 0.083862	Sparse_Loss2: 0.036285	Sparse_Loss3: 0.021255	
+Train source2 iter: 1620 [(16%)]	Loss: 0.276543	soft_Loss: 0.058520	mmd_Loss: 0.114814	Sparse_Loss1: 0.083374	Sparse_Loss2: 0.036423	Sparse_Loss3: 0.021347	
+Train source2 iter: 1630 [(16%)]	Loss: 0.270514	soft_Loss: 0.052910	mmd_Loss: 0.116469	Sparse_Loss1: 0.082520	Sparse_Loss2: 0.035599	Sparse_Loss3: 0.021179	
+Train source2 iter: 1640 [(16%)]	Loss: 0.275819	soft_Loss: 0.062414	mmd_Loss: 0.109518	Sparse_Loss1: 0.082932	Sparse_Loss2: 0.035751	Sparse_Loss3: 0.020790	
+Train source2 iter: 1650 [(16%)]	Loss: 0.274938	soft_Loss: 0.048341	mmd_Loss: 0.128993	Sparse_Loss1: 0.082291	Sparse_Loss2: 0.035721	Sparse_Loss3: 0.021156	
+Train source2 iter: 1660 [(17%)]	Loss: 0.272541	soft_Loss: 0.053689	mmd_Loss: 0.116125	Sparse_Loss1: 0.083176	Sparse_Loss2: 0.035706	Sparse_Loss3: 0.020950	
+Train source2 iter: 1670 [(17%)]	Loss: 0.290392	soft_Loss: 0.058633	mmd_Loss: 0.136418	Sparse_Loss1: 0.082138	Sparse_Loss2: 0.035645	Sparse_Loss3: 0.020782	
+Train source2 iter: 1680 [(17%)]	Loss: 0.274081	soft_Loss: 0.046838	mmd_Loss: 0.128660	Sparse_Loss1: 0.082855	Sparse_Loss2: 0.035339	Sparse_Loss3: 0.020813	
+Train source2 iter: 1690 [(17%)]	Loss: 0.277184	soft_Loss: 0.042446	mmd_Loss: 0.139396	Sparse_Loss1: 0.082504	Sparse_Loss2: 0.035568	Sparse_Loss3: 0.020699	
+Train source2 iter: 1700 [(17%)]	Loss: 0.288661	soft_Loss: 0.056179	mmd_Loss: 0.135303	Sparse_Loss1: 0.082443	Sparse_Loss2: 0.035492	Sparse_Loss3: 0.021042	
+amazon 
+Test set: Average loss: 0.0468, Accuracy: 1948/2818 (69%)
+
+
+source1 accnum 1948
+webcam dslr to amazon amazon max correct: 1948 
+
+learning rate:  0.004747633404402601
+Train source2 iter: 1710 [(17%)]	Loss: 0.267807	soft_Loss: 0.059701	mmd_Loss: 0.099756	Sparse_Loss1: 0.082397	Sparse_Loss2: 0.035583	Sparse_Loss3: 0.020927	

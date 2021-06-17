@@ -1,0 +1,4 @@
+learning rate:  0.01
+Train source2 iter: 10 [(0%)]	Loss: 3.287837	soft_Loss: 3.210384	mmd_Loss: 0.228798	Sparse_Loss1: 0.024918	Sparse_Loss2: 0.025753	Sparse_Loss3: 0.025639	
+Train source2 iter: 20 [(0%)]	Loss: 2.970550	soft_Loss: 2.891814	mmd_Loss: 0.270934	Sparse_Loss1: 0.024982	Sparse_Loss2: 0.025574	Sparse_Loss3: 0.025471	
+Train source2 iter: 30 [(0%)]	Loss: 2.769214	soft_Loss: 2.690876	mmd_Loss: 0.232467	Sparse_Loss1: 0.024487	Sparse_Loss2: 0.025269	Sparse_Loss3: 0.025097	
